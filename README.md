@@ -1,0 +1,2 @@
+# SC_302_DOCUMENTACION_MN_JAFETH
+Laboratorio Grupo 2
